@@ -4,7 +4,7 @@ Hi, I'm Moraima an Aspiring Frontend Dev working as a freelancer (Wordpress cons
 ## What can I offer
 ✨  Dedicated & curious person always eager to learn something new  
 🔍  Always looking for a best way to improve myself  
-🕹  Did a mention I love playing multiplayer games 😁  
+🕹  Did I mention how much I love playing multiplayer games 😁  
 
 ## About work
 In addition to the above skills, I can also offer your company or project:
