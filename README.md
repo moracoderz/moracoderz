@@ -21,5 +21,5 @@ I enjoy working in a team, and I am also productive and focused working independ
 ## Get in touch
 * [Twitter](https://twitter.com/moraimarp)
 * [Instagram](https://www.instagram.com/moraimarp/)
-* [Linkedin](https://www.linkedin.com/in/moraimarp/) 'Open for remote work'
+* [Linkedin](https://www.linkedin.com/in/moraimarp/)
 * [Personal site] soon
