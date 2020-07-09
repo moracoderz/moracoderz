@@ -2,9 +2,9 @@
 Hi, I'm Moraima an Aspiring Frontend Dev working as a freelancer (Wordpress consultant). Previously worked as a network admin for local companies at my hometown. I'm a tech geek🤓, I like playing online games as BTF 5, a big fan of Zelda saga especially BOTW, pluzzle games and in love with art 🥰 🎨 since i can remember.
 
 ## What can i offer
-✨ Dedicated & curious person always eager to learn something new  
-🔍 Always looking for a best way to improve myself  
-🕹 Did a mention i love playing multiplayer games 😁  
+✨  Dedicated & curious person always eager to learn something new  
+🔍  Always looking for a best way to improve myself  
+🕹  Did a mention i love playing multiplayer games 😁  
 
 ## For work
 In addition to the above skills, I can also offer your company or project:
