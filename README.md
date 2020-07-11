@@ -12,6 +12,8 @@ In addition to the above skills, I can also offer your company or project:
 - More than 9+ years of experience with wordpress
 - Basic PHP.
 - Basic Javascript.
+- Advanced CSS
+- Starting with SASS
 - Basic Knowledge using Linux environment.
 - I like to learn new things and I'm always improving my skills.
 - I am a proactive person, who likes to do more than requested.
