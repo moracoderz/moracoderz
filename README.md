@@ -13,7 +13,7 @@ In addition to the above skills, I can also offer your company or project:
 - Basic PHP.
 - Basic Javascript.
 - Advanced CSS
-- Starting with SASS
+- Basic SASS Knowledge.
 - Basic Knowledge using Linux environment.
 - I like to learn new things and I'm always improving my skills.
 - I am a proactive person, who likes to do more than requested.
