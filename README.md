@@ -3,8 +3,7 @@ Hi, I'm Moraima a Jr Frontend Dev working as a freelancer (Wordpress consultant)
 
 ## What can I offer
 ✨  Dedicated & curious person always eager to learn something new  
-🔍  Always looking for a best way to improve myself  
-🕹  Did I mention how much I love playing multiplayer games 😁  
+🔍  Always looking for a best way to improve myself   
 
 ## About work
 In addition to the above skills, I can also offer your company or project:
