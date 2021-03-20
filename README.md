@@ -10,13 +10,13 @@ Hi, I'm Moraima a Jr Frontend Dev working as a freelancer Wordpress consultant, 
 ## About work
 In addition to the above skills, I can also offer your company or project:
 
-- More than 9+ years of experience with wordpress
+- More than 10+ years of experience with wordpress
 - Basic PHP.
 - Basic Javascript, React.js.
 - Advanced CSS.
 - Sass.
 - Basic Knowledge using Linux environment.
-- I like to learn new things and I'm always improving my skills.
+- I like to learn new things and I'm always improving these skills.
 - I am a proactive person, who likes to do more than requested.
 
 I enjoy working in a team, and I am also productive and focused working independently.
