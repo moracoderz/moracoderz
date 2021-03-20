@@ -17,7 +17,7 @@ In addition to the above skills, I can also offer your company or project:
 - Sass.
 - Basic Knowledge using Linux environment.
 - I like to learn new things and I'm always improving these skills.
-- I am a proactive person, who likes to do more than requested.
+- I am a proactive person, who likes to get job done.
 
 I enjoy working in a team, and I am also productive and focused working independently.
 
