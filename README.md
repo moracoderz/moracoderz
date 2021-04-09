@@ -1,7 +1,7 @@
 # Moraima Rios
 [Frontend Dev Jr - Html | Css | Sass | Javascript | React & WordPress Consultant](https://github.com/mripz)
 
-Hi, I'm Moraima a Jr Frontend Dev working as a freelancer Wordpress consultant, love to help my clients to found the best solution to their needs. Mom of two amazing kids 👦‍👦. Previously worked as a network admin for local companies at my hometown. I'm a tech geek🤓, also like playing online games & pluzzle games and in love with art 🥰 🎨 since I can remember.
+Hi, I'm Moraima Mom of two amazing kids 👦‍👦, I’m a Jr Frontend Developer and WordPress Support Specialist, I love to help clients find the best solution to their needs. Previously worked as a network admin for local companies at my hometown. I'm a tech geek🤓, also like playing online games & pluzzle games and in love with art 🥰 🎨 since I can remember.
 
 ## What can I offer
 ✨  Dedicated & curious person always eager to learn something new  
