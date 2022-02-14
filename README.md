@@ -26,7 +26,7 @@ In addition to the above skills, I can also offer your company or project:
 I enjoy working in a team, and I am also productive and focused working independently.
 
 ## Get in touch
-* [Twitter](https://twitter.com/moraimarp)
-* [Instagram](https://www.instagram.com/moraimarp/)
+* [Twitter](https://twitter.com/moracoderz)
+* [Instagram](https://www.instagram.com/moracoderz/)
 * [Linkedin](https://www.linkedin.com/in/moraimarp/)
 * [Personal site] soon
