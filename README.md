@@ -28,5 +28,5 @@ I enjoy working in a team, and I am also productive and focused working independ
 ## Get in touch
 * [Twitter](https://twitter.com/moracoderz)
 * [Instagram](https://www.instagram.com/moracoderz/)
-* [Linkedin](https://www.linkedin.com/in/moraimarp/)
+* [Linkedin](https://www.linkedin.com/in/moraimarios/)
 * [Personal site] soon
