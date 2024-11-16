@@ -1,5 +1,5 @@
 # Moraima Rios
-[WordPres Support Specialist | Web Developer - Html & Css | Javascript |](https://github.com/mripz)
+[WordPres Support Specialist | Web Developer - Html & Css | Javascript |](https://github.com/moracoderz)
 
 Hi, I'm Moraima Mom of two amazing kids 👦‍👦, I’m a Jr Frontend Developer and WordPress Support Specialist, I love to help clients find the best solution to their needs. Previously worked as a network admin for local companies at my hometown. I'm a tech geek🤓, also enjoy playing multiplayer games and in love with art 🥰 🎨 since I can remember.
 
